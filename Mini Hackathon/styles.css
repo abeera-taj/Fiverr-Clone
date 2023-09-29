@@ -1,0 +1,91 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.navbar-section {
+  background-color: rgb(3, 65, 3);
+  color: white;
+}
+#search-button {
+  border: 1px solid white;
+  padding-left: 10px;
+  width: 40em;
+  height: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.second {
+  background-color: green;
+/* background-image:url("./bg-img.jpeg") ;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center; */
+
+
+}
+.bold {
+  display: inline-block;
+  border: 1px solid white;
+  color: white;
+  border-radius: 5px;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px 15px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+  
+}
+.cont {
+  color: aliceblue;
+  padding: 10px 8px;
+  border: 1px solid white;
+  border-radius: 5px;
+  width: 400px;
+  height: 400px;
+  
+}
+.img-1 {
+  background-image: url("./one.jpeg");
+  background-size: cover;
+}
+.img-2 {
+  background-image: url("./two.jpeg");
+  background-size: cover;
+}
+.img-3 {
+  background-image: url("./three.jpeg");
+  background-size: cover;
+}
+.img-4 {
+    background-image: url("./four.jpeg");
+    background-size: cover;
+  }
+.img-5 {
+    background-image: url("./five.jpeg");
+    background-size: cover;
+  }
+/* Styling third Section */
+.row{
+    padding-left: 2.5em;
+   
+
+}
+.fourth{
+    /* background-color: rgb(195, 243, 227);
+     */
+     background-color: rgb(203, 242, 253);
+}
+/* FIFTH SECTION */
+.fifth i{
+text-align: center;
+
+}
+.sixth{
+background-color: rgb(3, 3, 113);
+color: white;
+}
